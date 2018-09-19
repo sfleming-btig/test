@@ -1,6 +1,1 @@
-hello
-
-
-this is a bad commit
-
-this is after the bad commit
+WHAT UP
